@@ -88,29 +88,10 @@ Yes, the plugin is designed to work seamlessly with any standard WooCommerce ins
 
 == Changelog ==
 
-= 1.3 =
-* Fixed text domain issues for better internationalization
-* Improved email preview functionality
-* Fixed apostrophe escaping issues in emails
-* Enhanced admin interface with better user experience
-* Updated plugin name to clearly indicate WooCommerce compatibility
-
-= 1.2 =
-* Added admin interface for managing custom statuses
-* Implemented add/edit/delete functionality
-* Added email preview feature
-* Fixed database structure for storing custom statuses
-* Improved security with proper validation and sanitization
-
-= 1.1 =
-* Added dynamic custom order status registration
-* Implemented database storage for custom statuses
-* Added dynamic email sending based on custom statuses
-
 = 1.0 =
 * Initial release
 * Basic custom order status functionality
-* Hard-coded "Shoes Received" status with email notification
+* full admin interface for managing custom statuses, including add/edit/delete functionality and email preview
 
 == Upgrade Notice ==
 
